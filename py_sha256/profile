@@ -1,0 +1,4 @@
+summary: python called hashlib achieve sha256 for file
+function: compare the differences of two files
+use:  python sha256.py file_path
+
