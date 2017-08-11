@@ -1,0 +1,6 @@
+# small_tools
+readPartFile.py 
+	function£ºread a few lines of file
+	use: python readPartFile file_path number
+	means: read and print the font num of the file
+	_ 
